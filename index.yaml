@@ -33,6 +33,6 @@ entries:
     - https://github.com/wazuh/wazuh-ansamble
     - https://github.com/wazuh/wazuh-api
     urls:
-    - https://github.com/jmtristante/helm-wazuh/wazuh-kubernetes-1.0.0.tgz
+    - https://jmtristante.github.io/helm-wazuh/wazuh-kubernetes-1.0.0.tgz
     version: 1.0.0
 generated: "2022-05-23T10:27:46.111244261+02:00"
